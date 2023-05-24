@@ -1,9 +1,9 @@
 import { v4 as uuidv4 } from 'uuid';
-import BetArena from '../images/betarena.png';
-import BetMart from '../images/betmart.png';
+import BetArena from '../images/betarena.jpg';
+import BetMart from '../images/betmart.jpg';
 import Adams from '../images/adams.jpg';
 import Pifortune from '../images/pifortune.jpg';
-import DCC from '../images/dcc.webp';
+import DCC from '../images/dcc.jpg';
 import PimallMetro from '../images/pimallmetro.jpg'
 
 const projects = [

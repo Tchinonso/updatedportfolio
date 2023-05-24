@@ -83,7 +83,7 @@ const Projects = () => {
 				  { projectData.map((item) => {
 					  return <ProjectItem
 						  key={ item.id }
-						  title={ item.title }
+						  title={ item.name }
 						  desc={ item.desc }
 						  img={item.img}
 						  link={item.link}
