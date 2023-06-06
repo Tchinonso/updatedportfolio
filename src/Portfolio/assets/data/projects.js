@@ -5,8 +5,17 @@ import Adams from '../images/adams.jpg';
 import Pifortune from '../images/pifortune.jpg';
 import DCC from '../images/dcc.jpg';
 import PimallMetro from '../images/pimallmetro.jpg'
+import kettlesub from '../images/kettlesub.jpeg'
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Kettlesub',
+    desc:
+      'An e commerce website where users can purchase data subscribtions and other goods and services',
+    img: kettlesub,
+    link: 'https://kettlesub.com'
+  },
   {
     id: uuidv4(),
     name: 'BetArena',
