@@ -141,7 +141,7 @@ const Footer = () => {
 		  <div className='copyright'>
 			  <div className='container'>
 				  <PText>
-					  &copy; 2023-Tchinonso Destiny | Designed with React
+					  &copy; 2019-Tchinonso Destiny | Designed with React
 				  </PText>
 			  </div>
 		  </div>

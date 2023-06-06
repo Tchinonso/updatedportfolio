@@ -152,18 +152,18 @@ const About = () => {
             <AboutInfoItem
               title="2020-2021"
               items={[
-                "Self Learning, Over 1 year of general coding experience.",
+                "Fullstack developer at Pimallmetro.",
               ]}
             />
             <AboutInfoItem
               title="2021-2022"
               items={[
-                "Graduated from a coding bootcamp from AptLearn as a frontend Web Dev. ",
+                "Worked at Highscore and BrainyBytes as a Frontend Developer. ",
               ]}
             />
             <AboutInfoItem
               title="2022"
-              items={ ["Also finished another coding bootcamp where i learned the backend languages. working as a Freelancer"]}
+              items={ ["Currently working at City-Web as Project frontend developer and also as project supervisor"]}
             />
           </div>
         </div>
