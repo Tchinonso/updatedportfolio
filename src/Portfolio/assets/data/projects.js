@@ -6,6 +6,8 @@ import Pifortune from '../images/pifortune.jpg';
 import DCC from '../images/dcc.jpg';
 import PimallMetro from '../images/pimallmetro.jpg'
 import kettlesub from '../images/kettlesub.jpeg'
+import health from '../images/healthcare.jpeg'
+import gas from '../images/gas.jpeg'
 
 const projects = [
   {
@@ -15,6 +17,22 @@ const projects = [
       'An e commerce website where users can purchase data subscribtions and other goods and services',
     img: kettlesub,
     link: 'https://kettlesub.com'
+  },
+  {
+    id: uuidv4(),
+    name: 'BetaCare',
+    desc:
+      'A health care organisation website',
+    img: health,
+    link: 'https://betacare.ng'
+  },
+  {
+    id: uuidv4(),
+    name: 'Hellosa',
+    desc:
+      'A petrolium business',
+    img: gas,
+    link: 'https://hellosahq.com/'
   },
   {
     id: uuidv4(),
