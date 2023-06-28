@@ -8,8 +8,17 @@ import PimallMetro from '../images/pimallmetro.jpg'
 import kettlesub from '../images/kettlesub.jpeg'
 import health from '../images/healthcare.jpeg'
 import gas from '../images/gas.jpeg'
+import Maltina from '../images/maltina.jpg'
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Maltina Happiness Promo',
+    desc:
+      'A Maltina microsite project for promo and advert purpose',
+    img: Maltina,
+    link: 'https://togetherhappinesshappens.com'
+  },
   {
     id: uuidv4(),
     name: 'Kettlesub',
