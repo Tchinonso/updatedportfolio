@@ -157,8 +157,7 @@ const HeroSection = () => {
           </div>
           <div className="hero__info">
             <PText>
-              I am a Full-stack Web and Javascript Developer, I have few years
-              of experience and i love to code
+              Highly skilled and motivated Developer with expertise in HTML, CSS, JavaScript, ReactJS, Node.js, and MongoDB. Passionate about crafting immersive and dynamic web experiences that seamlessly blend creativity and functionality.
             </PText>
             <Button btnLink="/projects" btnText="See my Work" />
           </div>
