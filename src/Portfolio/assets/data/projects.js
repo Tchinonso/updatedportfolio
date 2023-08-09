@@ -11,6 +11,22 @@ import gas from '../images/gas.jpeg'
 import Maltina from '../images/THH Image 08.jpg'
 
 const projects = [
+  // {
+  //   id: uuidv4(),
+  //   name: 'Resavation',
+  //   desc:
+  //     'We are a real estate company, matching students and nysc candidates who are seeking for rooms and apartments with individuals also seeking for the same thing. Making it easier for people to connect and find apartments',
+  //   img: Maltina,
+  //   link: 'https://MaltinaSharehappiness.com'
+  // },
+  // {
+  //   id: uuidv4(),
+  //   name: 'Eagle God',
+  //   desc:
+  //     'We are an extension of Nophlix Technology, we render clients services, in terms of graphic designs, ui/ux, web development and app development. We build top notch and scallable applications that meets our clients demand.',
+  //   img: Maltina,
+  //   link: 'https://MaltinaSharehappiness.com'
+  // },
   {
     id: uuidv4(),
     name: 'Maltina Happiness Promo',
