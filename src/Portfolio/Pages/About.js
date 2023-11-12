@@ -90,7 +90,7 @@ const About = () => {
                 that can be useful to others.
                 <br />
                 <br />
-                I started coding few years ago. Coding is also an art and a
+                I have been coding consistently for 3 years and above. Coding is also an art and a
                 therapy for me. I love it and now i have the opportunity to do
                 other things alongside with it like trying to design. I find it
                 really interesting and i enjoy the process also.
