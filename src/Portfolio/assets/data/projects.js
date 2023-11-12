@@ -9,24 +9,21 @@ import kettlesub from '../images/kettlesub.jpeg'
 import health from '../images/healthcare.jpeg'
 import gas from '../images/gas.jpeg'
 import Maltina from '../images/THH Image 08.jpg'
+import Togao from '../images/insurance.jpg'
+import Forex from '../images/forex.jpg'
+import IEXport from '../images/import.jpg'
+import Resavation from '../images/resavation.jpg'
 
 const projects = [
-  // {
-  //   id: uuidv4(),
-  //   name: 'Resavation',
-  //   desc:
-  //     'We are a real estate company, matching students and nysc candidates who are seeking for rooms and apartments with individuals also seeking for the same thing. Making it easier for people to connect and find apartments',
-  //   img: Maltina,
-  //   link: 'https://MaltinaSharehappiness.com'
-  // },
-  // {
-  //   id: uuidv4(),
-  //   name: 'Eagle God',
-  //   desc:
-  //     'We are an extension of Nophlix Technology, we render clients services, in terms of graphic designs, ui/ux, web development and app development. We build top notch and scallable applications that meets our clients demand.',
-  //   img: Maltina,
-  //   link: 'https://MaltinaSharehappiness.com'
-  // },
+  {
+    id: uuidv4(),
+    name: 'Resavation',
+    desc:
+      'Resavation is an AI proptech company that allow tenants find verified properties online, inspect the property virtually and build their credit score by helping them with rental loan to pay their rent upfront in Nigeria',
+    img: Resavation,
+    link: 'https://www.resavation.com/'
+  },
+ 
   {
     id: uuidv4(),
     name: 'Maltina Happiness Promo',
@@ -34,6 +31,30 @@ const projects = [
       'A Maltina microsite project for promo and advert purpose',
     img: Maltina,
     link: 'https://MaltinaSharehappiness.com'
+  },
+  {
+    id: uuidv4(),
+    name: 'Togao Consult’s Corporate Information',
+    desc:
+      'To contribute to the uplift of the standard of practice by offering relevant training courses and also offering quality services to the technical operations of insurance companies.',
+    img: Togao,
+    link: 'https://www.togaoconsults.com/'
+  },
+  {
+    id: uuidv4(),
+    name: 'Build Income With Forex Trading',
+    desc:
+      'EVER THOUGHT ABOUT A WORLD YOU COULD MAKE MONEY FOR YOURSELF AT YOUR PACE AND LIVE A STANDARD LIFE??.',
+    img: Forex,
+    link: 'https://www.assuredaimforex.com/'
+  },
+  {
+    id: uuidv4(),
+    name: 'TAE LOLU VENTURES',
+    desc:
+      'Nigeria is the most populous country in the African Continent and also the most populous black nation in the World.',
+    img: IEXport,
+    link: 'https://www.taelolu.com/'
   },
   {
     id: uuidv4(),
