@@ -31,7 +31,15 @@ const projects = [
     desc:
       'A Maltina microsite project for promo and advert purpose',
     img: Maltina,
-    link: 'https://maltinahappines.netlify.app/'
+    link: 'https://maltinacampaign.netlify.app/'
+  },
+   {
+    id: uuidv4(),
+    name: 'Resavation',
+    desc:
+      'Resavation is an AI proptech company that allow tenants find verified properties online, inspect the property virtually and build their credit score by helping them with rental loan to pay their rent upfront in Nigeria',
+    img: Resavation,
+    link: 'https://www.resavation.com/'
   },
   {
     id: uuidv4(),
@@ -41,14 +49,7 @@ const projects = [
     img: Togao,
     link: 'https://www.togaoconsults.com/'
   },
-  {
-    id: uuidv4(),
-    name: 'Build Income With Forex Trading',
-    desc:
-      'EVER THOUGHT ABOUT A WORLD YOU COULD MAKE MONEY FOR YOURSELF AT YOUR PACE AND LIVE A STANDARD LIFE??.',
-    img: Forex,
-    link: 'https://www.assuredaimforex.com/'
-  },
+ 
   {
     id: uuidv4(),
     name: 'TAE LOLU VENTURES',
@@ -73,14 +74,7 @@ const projects = [
     img: health,
     link: 'https://betacare.ng'
   },
-  {
-    id: uuidv4(),
-    name: 'Hellosa',
-    desc:
-      'A petrolium business',
-    img: gas,
-    link: 'https://hellosahq.com/'
-  },
+ 
   {
     id: uuidv4(),
     name: 'BetArena',
@@ -113,14 +107,7 @@ const projects = [
     img: DCC,
     link: 'https://tchinonso.github.io/dcc'
   },
-   {
-    id: uuidv4(),
-    name: 'Resavation',
-    desc:
-      'Resavation is an AI proptech company that allow tenants find verified properties online, inspect the property virtually and build their credit score by helping them with rental loan to pay their rent upfront in Nigeria',
-    img: Resavation,
-    link: 'https://www.resavation.com/'
-  },
+  
   {
     id: uuidv4(),
     name: "PIFORTUNE MARKET",
@@ -136,6 +123,22 @@ const projects = [
       'A business website where you can trade your pi coin and also purchase goods and services and pay with pi.',
     img: PimallMetro,
     link: 'https://pimallmetro.com'
+  },
+   {
+    id: uuidv4(),
+    name: 'Build Income With Forex Trading',
+    desc:
+      'EVER THOUGHT ABOUT A WORLD YOU COULD MAKE MONEY FOR YOURSELF AT YOUR PACE AND LIVE A STANDARD LIFE??.',
+    img: Forex,
+    link: 'https://www.assuredaimforex.com/'
+  },
+   {
+    id: uuidv4(),
+    name: 'Hellosa',
+    desc:
+      'A petrolium business',
+    img: gas,
+    link: 'https://hellosahq.com/'
   },
  
 ];
