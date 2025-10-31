@@ -13,24 +13,25 @@ import Togao from '../images/insurance.jpg'
 import Forex from '../images/forex.jpg'
 import IEXport from '../images/import.jpg'
 import Resavation from '../images/resavation.jpg'
+import Todo from '../images/Todo.jpg'
 
 const projects = [
-  {
+
+   {
     id: uuidv4(),
-    name: 'Resavation',
+    name: 'TASKIFY',
     desc:
-      'Resavation is an AI proptech company that allow tenants find verified properties online, inspect the property virtually and build their credit score by helping them with rental loan to pay their rent upfront in Nigeria',
-    img: Resavation,
-    link: 'https://www.resavation.com/'
+      'This was built to master Vite + React and Typescript, It has the features of input, Edit, delete, strike mark and most importantly, drag and drop',
+    img: Todo,
+    link: 'https://tododragdroplist.netlify.app/'
   },
- 
   {
     id: uuidv4(),
     name: 'Maltina Happiness Promo',
     desc:
       'A Maltina microsite project for promo and advert purpose',
     img: Maltina,
-    link: 'https://MaltinaSharehappiness.com'
+    link: 'https://maltinahappines.netlify.app/'
   },
   {
     id: uuidv4(),
@@ -104,6 +105,22 @@ const projects = [
     img: Adams,
     link: 'https://tchinonso.github.io/adams'
   },
+   {
+    id: uuidv4(),
+    name: 'DCC',
+    desc:
+      'This project is yet to be completed, it is done halfway, only functional on mobile screens, it is also crypto related.',
+    img: DCC,
+    link: 'https://tchinonso.github.io/dcc'
+  },
+   {
+    id: uuidv4(),
+    name: 'Resavation',
+    desc:
+      'Resavation is an AI proptech company that allow tenants find verified properties online, inspect the property virtually and build their credit score by helping them with rental loan to pay their rent upfront in Nigeria',
+    img: Resavation,
+    link: 'https://www.resavation.com/'
+  },
   {
     id: uuidv4(),
     name: "PIFORTUNE MARKET",
@@ -120,14 +137,7 @@ const projects = [
     img: PimallMetro,
     link: 'https://pimallmetro.com'
   },
-  {
-    id: uuidv4(),
-    name: 'DCC',
-    desc:
-      'This project is yet to be completed, it is done halfway, only functional on mobile screens, it is also crypto related.',
-    img: DCC,
-    link: 'https://tchinonso.github.io/dcc'
-  },
+ 
 ];
 
 export default projects;
