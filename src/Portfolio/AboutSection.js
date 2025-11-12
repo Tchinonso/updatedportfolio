@@ -2,7 +2,7 @@ import React from 'react'
 import SectionTitle from './SectionTitle'
 import PText from './PText';
 import Button from './Button';
-import me3 from './assets/me images/me3.jpg'
+import mee2 from './assets/me images/mee2.jpeg'
 import styled from 'styled-components';
 
 
@@ -93,7 +93,7 @@ const AboutSection = () => {
           </div>
 			  </div>
 			  <div className='aboutSection__right'>
-				  <img src={me3} alt='' />
+				  <img src={mee2} alt='' />
 			  </div>
       </div>
     </AboutSectionStyle>
