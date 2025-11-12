@@ -157,7 +157,7 @@ const HeroSection = () => {
           </div>
           <div className="hero__info">
             <PText>
-              Highly skilled and motivated Developer with expertise in HTML, CSS, JavaScript, ReactJS, Node.js, and MongoDB. Passionate about crafting immersive and dynamic web experiences that seamlessly blend creativity and functionality.
+              Highly skilled and motivated Developer with expertise in JavaScript,Typescript, ReactJS (nextjs), Node.js,Rust and PostgreSQL. Also a Solana Onchain contributor leveraging TypeScript and Rust anchor to build decentralised web applications.
             </PText>
             <Button btnLink="/projects" btnText="See my Work" />
           </div>
@@ -178,7 +178,7 @@ const HeroSection = () => {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/TCHlNONSO"
+                    href="http://x.com/MayorOfIsu"
                     target="_blank"
                     rel="noreferrer">
                     TW
@@ -194,7 +194,7 @@ const HeroSection = () => {
                 </li>
                 <li>
                   <a
-                    href="http://linkedin.com/in/tchinonso"
+                    href="http://linkedin.com/in/tchinonso--"
                     target="_blank"
                     rel="noreferrer">
                     LI
@@ -202,7 +202,7 @@ const HeroSection = () => {
                 </li>
                 <li>
                   <a
-                    href="http://instagram.com/tchinonso_"
+                    href="http://instagram.com/mayor.of.isu"
                     target="_blank"
                     rel="noreferrer">
                     IG

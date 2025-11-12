@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../Button'
 import PText from '../PText'
-import AboutImg from '../assets/me images/me2.jpg'
+import AboutImg from '../assets/me images/mee2.jpeg'
 import styled from 'styled-components'
 import AboutInfoItem from '../AboutInfoItem'
 import ContactBanner from '../ContactBanner'
@@ -84,7 +84,7 @@ const About = () => {
             <h2 className="about__heading">A Web Developer</h2>
             <div className="about__info">
               <PText>
-                I am from Lagos Nigeria. A place of beauty and nature. Since my
+                I am from West Africa, living in Lagos. A place of beauty and nature. Since my
                 young age, i love art and design. I always try to design stuff
                 with my unique point of view. I also love to create to things
                 that can be useful to others.
@@ -133,18 +133,17 @@ const About = () => {
             <AboutInfoItem
               title="FrontEnd"
               items={[
-                "HTML",'CSS','JAVASCRIPT','REACT'
-              ]}
+                'JAVASCRIPT','REACT', 'NEXTJS', 'Typescript'              ]}
             />
             <AboutInfoItem
               title="BackEnd"
               items={[
-                "NodeJs",'ExpressJs','PHP','Python Basics','MySQL','API','Django'
+                "NodeJs", 'ExpressJs', 'RUST', 'PostgreSQL'
               ]}
             />
             <AboutInfoItem
               title="Design"
-              items={["Figma",'PhotoShop','After Effects','Adobe']}
+              items={['---']}
             />
           </div>
           <div className="about__info__item">
@@ -152,7 +151,7 @@ const About = () => {
             <AboutInfoItem
               title="2020-2021"
               items={[
-                "Fullstack developer at Pimallmetro.",
+                "Fullstack developer at RDX Lagos.",
               ]}
             />
             <AboutInfoItem
