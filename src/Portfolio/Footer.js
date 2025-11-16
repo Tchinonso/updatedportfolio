@@ -59,7 +59,7 @@ const Footer = () => {
         <div className="footer__col1">
           <h1 className="footer__col1__title">Tchinonso Destiny</h1>
           <PText>
-            A Freelance web designer and developer from Lagos Nigeria. I always
+            A Freelance web designer and developer from Owerri Nigeria. I always
             make websites that has unique designs and also has a good
             performance.
           </PText>
@@ -104,7 +104,7 @@ const Footer = () => {
                 path: "mailto:lightersmercury@gmail.com",
               },
               {
-                title: "IKEJA, Lagos, Nigeria",
+                title: "OWERRI, Imo, Nigeria",
                 path: "http://google.com/maps",
               },
             ]}
@@ -116,15 +116,15 @@ const Footer = () => {
             links={[
               {
                 title: "Facebook",
-                path: "http://facebook.com/bighostblog",
+                path: "http://facebook.com/bighostblogddd",
               },
               {
                 title: "Instagram",
-                path: "http://instagram.com/tchinonso_",
+                path: "http://instagram.com/mayor.of.isu",
               },
               {
                 title: "Twitter",
-                path: "http://twitter.com/TCHlNONSO",
+                path: "http://twitter.com/MayorOfIsu",
               },
               {
                 title: "Github",
@@ -132,7 +132,7 @@ const Footer = () => {
               },
               {
                 title: "Linkedin",
-                path: "http://linkedin.com/in/tchinonso",
+                path: "http://linkedin.com/in/tchinonsossss",
               },
             ]}
           />

@@ -1,6 +1,6 @@
 import React from 'react'
 import socialmediaarrow from './assets/images/social-media-arrow.svg'
-import mesnapchat from './assets/me images/mesnapchat.jpg'
+import ICTFavicon from './assets/me images/ICT.jpeg'
 import Button from './Button';
 import PText from './PText'
 import scrolldown from './assets/images/scroll-down-arrow.svg'
@@ -153,7 +153,7 @@ const HeroSection = () => {
             <span className="hero__name">Tchinonso Destiny</span>
           </h1>
           <div className="hero__img">
-            <img src={mesnapchat} alt="" />
+            <img src={ICTFavicon} alt="" />
           </div>
           <div className="hero__info">
             <PText>

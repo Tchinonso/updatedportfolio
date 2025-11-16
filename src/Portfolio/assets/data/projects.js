@@ -4,19 +4,28 @@ import BetMart from '../images/betmart.jpg';
 import Adams from '../images/adams.jpg';
 import Pifortune from '../images/pifortune.jpg';
 import DCC from '../images/dcc.jpg';
-import PimallMetro from '../images/pimallmetro.jpg'
-import kettlesub from '../images/kettlesub.jpeg'
-import health from '../images/healthcare.jpeg'
-import gas from '../images/gas.jpeg'
-import Maltina from '../images/THH Image 08.jpg'
-import Togao from '../images/insurance.jpg'
-import Forex from '../images/forex.jpg'
-import IEXport from '../images/import.jpg'
-import Resavation from '../images/resavation.jpg'
-import Todo from '../images/Todo.jpg'
+import PimallMetro from '../images/pimallmetro.jpg';
+import kettlesub from '../images/kettlesub.jpeg';
+import health from '../images/healthcare.jpeg';
+import gas from '../images/gas.jpeg';
+import Maltina from '../images/THH Image 08.jpg';
+import Togao from '../images/insurance.jpg';
+import Forex from '../images/forex.jpg';
+import IEXport from '../images/import.jpg';
+import Resavation from '../images/resavation.jpg';
+import Todo from '../images/Todo.jpg';
+import RustTodo from '../images/todo-rust.jpeg';
 
 const projects = [
 
+   {
+    id: uuidv4(),
+    name: 'NEXTJS, TS AND TODO',
+    desc:
+      'this is a simple todo app built with nextjs and typescript, and it uses RUST AXUM in the backkend',
+    img: RustTodo,
+    link: 'https://nextjsandrusttodo.netlify.app/'
+  },
    {
     id: uuidv4(),
     name: 'TASKIFY',

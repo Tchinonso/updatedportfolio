@@ -84,7 +84,7 @@ const About = () => {
             <h2 className="about__heading">A Web Developer</h2>
             <div className="about__info">
               <PText>
-                I am from West Africa, living in Lagos. A place of beauty and nature. Since my
+                I am from West Africa, living in Owerri. A place of beauty and nature. Since my
                 young age, i love art and design. I always try to design stuff
                 with my unique point of view. I also love to create to things
                 that can be useful to others.

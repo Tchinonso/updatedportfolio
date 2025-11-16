@@ -83,7 +83,7 @@ const AboutSection = () => {
           />
 
           <PText>
-            I am a Full-stack Web Developer, from Nigeria living in Lagos.
+            I am a Full-stack Web Developer, from Nigeria living in Owerri.
             I create professional websites. I love Tech and always try to show
             unique views to the audience through coding.
           </PText>

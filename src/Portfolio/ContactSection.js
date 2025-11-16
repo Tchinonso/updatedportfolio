@@ -60,7 +60,7 @@ const ContactSection = () => {
           <div className="left">
             <ContactInfoItem icon={<MdLocalPhone/>} text='+2348160272732' />
             <ContactInfoItem icon={<MdEmail/>} text='lightersmercury@gmail.com' />
-            <ContactInfoItem text='Lagos,Nigeria' />
+            <ContactInfoItem text='Owerri,Nigeria' />
           </div>
           <div className="right">
 					  <ContactForm />
