@@ -14,13 +14,13 @@ import Forex from '../images/forex.jpg';
 import IEXport from '../images/import.jpg';
 import Resavation from '../images/resavation.jpg';
 import Todo from '../images/Todo.jpg';
-import RustTodo from '../images/todo-rust.jpeg';
+import RustTodo from '../images/rust-ttodo.gif';
 
 const projects = [
 
    {
     id: uuidv4(),
-    name: 'NEXTJS, TS AND TODO',
+    name: 'NEXTJS, TS AND RUST TODO',
     desc:
       'this is a simple todo app built with nextjs and typescript, and it uses RUST AXUM in the backkend',
     img: RustTodo,
